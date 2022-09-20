@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+<<<<<<< HEAD
+.classvisible {
+    display: grid !important;
+}
+
+.classinvisible {
+    display: none !important;
+}
+
+.fontMontserrat {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.fontRoboto {
+    font-family: 'Roboto', sans-serif;
+=======
+html{
+    background-color: #1E293B;
+    color: white;
+>>>>>>> 87e89eb6616f6955092198093566fba420888e53
+}
